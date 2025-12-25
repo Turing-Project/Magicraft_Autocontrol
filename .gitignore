@@ -1,0 +1,93 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 环境变量和敏感信息
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 模型文件（通常很大，不提交）
+*.pt
+*.pth
+*.onnx
+*.pb
+weights/
+models/
+*.h5
+*.ckpt
+
+# 数据文件
+data/
+data1/
+data2/
+*.npy
+*.npz
+
+# 日志和输出
+logs/
+*.log
+outputs/
+saved_images/
+*.mkv
+*.mp4
+*.avi
+
+# 缓存文件
+*.cache
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# 训练结果
+training_*.txt
+training_*.csv
+training_*.png
+training_*.jpg
+
+# 结果文件
+*_result.json
+option_selection_result_*.json
+store_purchase_result.json
+door_scene_result.json
+analysis_result.txt
+spell_analysis_result.txt
+
+# 系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+

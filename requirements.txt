@@ -1,0 +1,27 @@
+# 魔法工艺自动化项目 - Python依赖包
+
+# 核心依赖
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+pyyaml>=6.0
+
+# 游戏控制和自动化
+pyautogui>=0.9.54
+pydirectinput>=1.0.4
+keyboard>=0.13.5
+
+# API和网络请求
+openai>=1.0.0
+requests>=2.31.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# 图像处理
+Pillow>=10.0.0
+
+# YOLO模型支持（可选，根据需要安装）
+# ultralytics>=8.0.0  # 如果使用Ultralytics YOLO
+# 或者使用YOLOv5（需要从GitHub克隆）
+

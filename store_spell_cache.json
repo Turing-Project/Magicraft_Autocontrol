@@ -1,0 +1,135 @@
+{
+  "wand_infos": [
+    {
+      "wand_index": 1,
+      "wand_name": "崭新法杖",
+      "normal_slots": 6,
+      "post_slots": 0,
+      "summary": "- 崭新法杖: max_mp=90, mp_recover=11.0, shoot_interval=0.16, cooldown=0.45"
+    }
+  ],
+  "equipped_summary": "当前已装备法术汇总（两根法杖）：\n- 崭新法杖 槽位1: 拟态魔方 (ID: 31091)\n- 崭新法杖 槽位2: 毒液晶石 (ID: 30051)\n- 崭新法杖 槽位3: 蝴蝶 (ID: 10031)\n- 崭新法杖 槽位4: 滚球 (ID: 10021)\n- 崭新法杖 槽位5: 魔法弹 (ID: 10011)",
+  "candidate_spells": [
+    {
+      "index": 1,
+      "source": "wand1",
+      "name": "拟态魔方",
+      "type": "",
+      "category": "已装备",
+      "attributes": "",
+      "effects": [],
+      "description": "ID: 31091（当前法杖1已装备）",
+      "available_count": 1
+    },
+    {
+      "index": 2,
+      "source": "wand1",
+      "name": "毒液晶石",
+      "type": "",
+      "category": "已装备",
+      "attributes": "",
+      "effects": [],
+      "description": "ID: 30051（当前法杖1已装备）",
+      "available_count": 1
+    },
+    {
+      "index": 3,
+      "source": "wand1",
+      "name": "蝴蝶",
+      "type": "",
+      "category": "已装备",
+      "attributes": "",
+      "effects": [],
+      "description": "ID: 10031（当前法杖1已装备）",
+      "available_count": 1
+    },
+    {
+      "index": 4,
+      "source": "wand1",
+      "name": "滚球",
+      "type": "",
+      "category": "已装备",
+      "attributes": "",
+      "effects": [],
+      "description": "ID: 10021（当前法杖1已装备）",
+      "available_count": 1
+    },
+    {
+      "index": 5,
+      "source": "wand1",
+      "name": "魔法弹",
+      "type": "",
+      "category": "已装备",
+      "attributes": "",
+      "effects": [],
+      "description": "ID: 10011（当前法杖1已装备）",
+      "available_count": 1
+    }
+  ],
+  "id_40181": {
+    "item_id": 40181,
+    "item_name": "破界石-施法",
+    "item_info": {
+      "name": "破界石-施法",
+      "type": "法术被动",
+      "spell_category": "被动",
+      "cooling_time": "",
+      "description": "该法术右侧的格子转变为施法后置槽\n后置槽效果：此法杖每次施法充能1.9点",
+      "damage": "",
+      "cost": "",
+      "attributes": [],
+      "effects": [
+        "该法术右侧的格子转变为施法后置槽",
+        "后置槽效果：此法杖每次施法充能1.9点"
+      ],
+      "all_text": "破界石-施法\n法术被动 稀有\n• 该法术右侧的格子转变为施法后置槽\n• 后置槽效果：此法杖每次施法充能1.9点"
+    },
+    "cached_at": "2025-12-15 15:45:47"
+  },
+  "name_破界石-施法": "id_40181",
+  "id_31231": {
+    "item_id": 31231,
+    "item_name": "过载",
+    "item_info": {
+      "name": "过载",
+      "type": "法术增强",
+      "spell_category": "被动",
+      "cooling_time": "",
+      "description": "",
+      "damage": "",
+      "cost": "",
+      "attributes": [],
+      "effects": [
+        "魔耗: ×120%",
+        "法术伤害+50%"
+      ],
+      "all_text": "过载\n法术增强 普通\n• 魔耗: ×120%\n• 法术伤害+50%"
+    },
+    "cached_at": "2025-12-15 15:45:54"
+  },
+  "name_过载": "id_31231",
+  "id_30011": {
+    "item_id": 30011,
+    "item_name": "齐射",
+    "item_info": {
+      "name": "齐射",
+      "type": "法术增强",
+      "spell_category": "被动",
+      "cooling_time": "",
+      "description": "法杖同时施放法术数量+2\n同时施法时每多一个可施放法术，魔耗×78%，散射+10°",
+      "damage": "",
+      "cost": "",
+      "attributes": {
+        "散射角度": "+10°"
+      },
+      "effects": [
+        "法杖同时施放法术数量+2",
+        "同时施法时每多一个可施放法术，魔耗×78%",
+        "散射+10°"
+      ],
+      "all_text": "齐射\n法术增强 普通\n· 法杖同时施放法术数量+2\n· 同时施法时每多一个可施放法术，魔耗×78%，散射+10°\nG 购买"
+    },
+    "cached_at": "2025-12-15 15:46:04"
+  },
+  "name_齐射": "id_30011"
+}
