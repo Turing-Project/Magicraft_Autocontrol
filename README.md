@@ -290,6 +290,7 @@ train_MAGIC/
 **问题：** 无法连接到 `http://localhost:1234`
 
 **解决方案：**
+- steam右键游戏 -> 属性 -> 测试版 输入AIBetaTest1107。  进入游戏后按~呼出控制台，输入aidata_server开启端口
 - 确保游戏内服务正在运行
 - 检查端口号是否正确（默认1234）
 - 如果端口不同，修改 `.env` 中的 `SPELLS_ENDPOINT` 和 `STORE_ENDPOINT`
